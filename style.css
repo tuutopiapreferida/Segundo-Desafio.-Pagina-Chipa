@@ -1,0 +1,23 @@
+body {
+  background-color: dimgrey;
+}
+.titulo {
+	color: orangered;
+	font-family:"Georgia", serif;
+	text-align: center;
+}
+.imagen1 {
+	padding: 10px;
+	margin: 10px 5px 5px 0px;
+}
+
+.imagen2 {
+	padding: 10px;
+	margin: 30px 10px 5px 0px;
+}
+
+.imagen3 {
+	
+	padding: 10px;
+	margin: 30px 10px 5px 0px;
+}
